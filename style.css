@@ -1,0 +1,20 @@
+
+
+section{
+    padding-top: 2%;
+}
+.text{
+    border: 1px solid black;
+    padding: 2%;
+   
+}
+.textimg{
+    border: 1px solid black;
+    border-left: none;
+    padding: 2% 0;
+}
+.team{
+    height: 200px;
+    padding: 3%;
+    text-align: center;
+}
